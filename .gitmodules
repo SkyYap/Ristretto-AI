@@ -1,0 +1,9 @@
+[submodule "contracts/nitro-contracts"]
+	path = contracts/nitro-contracts
+	url = https://github.com/EspressoSystems/nitro-contracts.git
+[submodule "intents-framework"]
+	path = intents-framework
+	url = https://github.com/BootNodeDev/intents-framework
+[submodule "contracts/espresso-build-something-real"]
+	path = contracts/espresso-build-something-real
+	url = https://github.com/EspressoSystems/espresso-build-something-real
