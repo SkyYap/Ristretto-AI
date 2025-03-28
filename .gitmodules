@@ -7,3 +7,6 @@
 [submodule "contracts/espresso-build-something-real"]
 	path = contracts/espresso-build-something-real
 	url = https://github.com/EspressoSystems/espresso-build-something-real
+[submodule "contracts/hackathon-example"]
+	path = contracts/hackathon-example
+	url = https://github.com/EspressoSystems/hackathon-example
